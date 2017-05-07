@@ -1,2 +1,1 @@
-# ziplist
-A nonempty list in which exactly one element is always selected.
+This library has been deprecated in favor of http://package.elm-lang.org/packages/rtfeldman/selectlist/latest

@@ -1,13 +1,13 @@
 {
-    "version": "1.0.0",
-    "summary": "A nonempty list in which exactly one element is always selected.",
+    "version": "2.0.0",
+    "summary": "A deprecated library. Use rtfeldman/selectlist instead!",
     "repository": "https://github.com/rtfeldman/ziplist.git",
     "license": "BSD-3-Clause",
     "source-directories": [
         "src"
     ],
     "exposed-modules": [
-        "ZipList"
+        "Deprecated"
     ],
     "dependencies": {
         "elm-lang/core": "5.0.0 <= v < 6.0.0"
